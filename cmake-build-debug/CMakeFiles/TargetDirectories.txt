@@ -1,3 +1,0 @@
-/Users/ivanushachov/Desktop/hw_16_c__/cmake-build-debug/CMakeFiles/hw_16_c__.dir
-/Users/ivanushachov/Desktop/hw_16_c__/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ivanushachov/Desktop/hw_16_c__/cmake-build-debug/CMakeFiles/rebuild_cache.dir
